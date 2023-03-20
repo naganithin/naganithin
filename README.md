@@ -1,6 +1,6 @@
 - Hello, This is Naga Nithin
 - I’m interested in Blockchain
-- I’m currently studying 3rd Year Btech CSE.
+- Working as Blockchain Developer
 - You reach me through my LinkedIn: https://www.linkedin.com/in/naganithing/
 
 <!---
